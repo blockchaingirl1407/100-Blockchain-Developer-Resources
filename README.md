@@ -11,6 +11,7 @@
 6. [Ethereum Studio](https://superblocks.com/ethereum-studio/)
 7. [Chaincoder - IDE for Hyperledger Fabric](https://www.chaincoder.org)
 8. [Chain IDE](https://chainide.com)
+9. [Tatum](https://tatum.io/)
 
 ## Ethereum Clients
 9. [Ganache](https://www.trufflesuite.com/ganache)
